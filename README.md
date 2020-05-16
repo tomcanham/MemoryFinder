@@ -8,3 +8,4 @@ _TODO_
 * Enable searching for more than just UInt32
 * Track hits
 * Allow things like "see live values" and "watch changes"
+* GUI? Could maybe do a little Golang web server to let you add/view values. Use websockets to update UI?
