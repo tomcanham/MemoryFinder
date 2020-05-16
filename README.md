@@ -1,4 +1,4 @@
-Just playing around teaching myself Golang.
+Just playing around teaching myself Golang. Note that this project is interop between Golang and Windows; "trivial" (hello world) projects don't motivate me or teach me much.
 
 This project searches another process' memory space for a specified UInt32.
 
